@@ -1,19 +1,348 @@
 .banner-principal-decorativo
   &-1
-    animation: float1 3.5s ease-in-out infinite alternate
+    animation: float2 4s ease-in-out infinite alternate
     position: absolute
-    top: 40%
-    right: 50%
+    top: 16%
+    right: 12%
   &-2
-    animation: float1 2.8s ease-in-out infinite alternate
+    animation: float1 4s ease-in-out infinite alternate
     position: absolute
-    top: 51%
-    right: 30%
-
+    top: 65%
+    right: 13%
+    width: 15%
+  &-3
+    animation: vanish 4s ease-in-out infinite alternate
+    position: absolute
+    top: 65%
+    right: 40%
+  &-4
+    animation: float2 8s ease-in-out infinite alternate
+    position: absolute
+    top: 82%
+    right: 18%
 
 @keyframes float1
   0%
-    transform: translateY(20px)
-
+    transform: translateY(30px)
   100%
     transform: translateY(0px)
+  
+@keyframes float2
+  0%
+    transform: translateX(30px)
+  100%
+    transform: translateX(0px)
+  
+@keyframes vanish
+  0%
+    opacity: 0
+  100%
+    opacity: 1
+  
+.banner-interno__fondo
+  background-image: url("../assets/curso/portada/img01.png") !important
+
+.BGIMG01
+  background-image: url("../assets/curso/fondos/img01.png")
+
+.BG02.acordion__activo
+  background-image: url("../assets/curso/fondos/img02.png")
+
+.BGIMG03
+  background-image: url("../assets/curso/fondos/img03.png")
+
+.BGIMG04
+  background-image: url("../assets/curso/fondos/img04.png")
+
+.BGIMG05
+  background-image: url("../assets/curso/fondos/img05.png")
+
+.BGIMG06
+  background-image: url("../assets/curso/fondos/img06.png")
+
+.BGIMG07
+  background-image: url("../assets/curso/fondos/img07.png")
+
+.BGIMG08
+  background-image: url("../assets/curso/fondos/img08.png")
+
+.BGIMG01, .BG02.acordion__activo, .BGIMG03, .BGIMG04, .BGIMG05, .BGIMG06, .BGIMG07, .BGIMG08
+  background-size: cover 
+  background-repeat: no-repeat
+  background-position: center
+
+.BGM03, .BGIMG03, .BGIMG05, .BGIMG06, .BGIMG08, .BGM09, .BGM10
+  margin-inline: -3rem !important
+  @media (max-width: $bp-max-sm)
+    margin-inline: -1.5rem !important
+  
+.cajon.color-acento-botones
+  background-color: #FFFAD8
+
+.BG01, .BGR01, .BGS01, .BGT01, .slyder-a__bullets__item--active
+  background-color: #4ADBD1 !important
+
+.BG02
+  background-color: #D0DDEB
+
+.BGM03
+  background-color: #FAFAFA
+
+.BG04, .BGA04, .BGB04
+  background-color: #F8F8F8
+
+.BG05, .BGS05
+  background-color: #5573C6
+
+.BG06, .BGR06
+  background-color: #EAEBED
+
+.BG07, .BGR07
+  background-color: #D7D8DC
+
+.BG08
+  background: linear-gradient(to right, #1A0F91, #3AB4B1)
+
+.BG09, .BGR09, .BGM09
+  background-color: #F6F6F6
+
+.BGM10
+  background: linear-gradient(to bottom, #FFF, #FFF,#5573C6,#FFF, #FFF)
+
+.BG11
+  background: linear-gradient(to bottom, #DEDEDE,#FFF,#DEDEDE)
+
+.BGS12
+  background-color: #A4EDE8
+
+.BG13, .BGR13
+  background-color: #12263F
+
+.BG14
+  background-color: #F4A338
+
+.BG15
+  background-color: #B0C0D2
+
+.BG16
+  background-color: #373F51
+
+.linea-tiempo-d.color-primario .linea-tiempo-d__item--selected .linea-tiempo-d__item__number, .linea-tiempo-d__item--selected .linea-tiempo-d__item__content__title, .linea-tiempo-d__item__content__slot
+  background-color: #DBE1F3
+
+.linea-tiempo-b.color-secundario .linea-tiempo-b__icon
+  background-color: transparent
+
+.linea-tiempo-d__item--selected .linea-tiempo-d__item__content__title 
+  border-radius: 5px 5px 0 0
+
+.linea-tiempo-d__item__content__slot
+  border-radius: 0 0 5px 5px
+
+.BGR01, .BGS05, .BGR13
+  border-radius: 10px
+
+.BGS01, .BGS12
+  border-radius: 0 17px 0 0
+
+.BGA04, .BGB04
+  border-radius: 0 20px 20px 0
+
+.BGR06
+  border-radius: 25px 25px 0 0
+
+.BGT01, .BGR07
+  border-radius: 0 0 25px 25px
+
+.BGR01, .BGS05, .BGR13
+  border: 3px solid #FFF
+
+.BGR01, .BGS01, .BGA04, .BGB04, .BGS05, .BGR09, .BGS12, .BGR13
+  box-shadow: 2px 2px 5px #707070
+
+.BGA04
+  border-right: 8px solid #5573C6
+
+.BGB04
+  border-right: 8px solid #4ADBD1
+
+.t-ac, .slyder-f__btn i
+  color: $color-acento-contenido !important
+
+.t-ab
+  color: $color-acento-botones !important
+
+.t-p, .acordion__accion__btn--a i
+  color: $color-primario !important
+
+.t-s
+  color: $color-secundario !important
+
+.t-l
+  color: #95AEF0
+
+.t-g
+  color: #6A7180
+
+
+
+.slyder__btn
+  background-color: #D2E1F1
+
+.slyder__btn:hover
+  background-color: #4ADBD1
+
+.slyder-a__bullets__item
+  background-color: #BAECE9
+
+.slyder-a__btn--sigt, .slyder-a__btn--atrs
+  background-color: #5573C6
+  @media (max-width: $bp-max-xs)
+    width: 25px
+    height: 25px
+  
+.slyder-a__bullets__item
+  @media (max-width: $bp-max-xs)
+    width: 7px
+    height: 7px
+    margin: 0 5px
+  
+.slyder-a__btn--sigt, .slyder-a__btn--atrs
+  background-image: url("../assets/componentes/arrow-white.svg")
+
+.slyder-a__btn--sigt
+  transform: rotate(0deg) !important
+
+.slyder-a__btn--atrs
+  transform: rotate(180deg) !important
+  
+.img-01
+  position: absolute
+  right: 175px
+  @media (max-width: $bp-max-xl)
+    right: 160px
+  @media (max-width: $bp-max-lg)
+    right: 60px
+  @media (max-width: $bp-max-md)
+    position: relative
+    left: 0
+  
+.img-02
+  position: relative
+  top: -80px
+  @media (max-width: $bp-max-md)
+    top: -20px
+  
+.img-03
+  position: absolute
+  left: 170px
+  @media (max-width: $bp-max-lg)
+    left: 50px
+  @media (max-width: $bp-max-md)
+    position: relative
+    left: 0
+  
+.img-04
+  position: absolute
+  left: 435px
+  @media (max-width: $bp-max-xl)
+    left: 375px
+  @media (max-width: $bp-max-lg)
+    left: 300px
+  
+.img-05
+  position: absolute
+  right: 50px
+  
+.img-06
+  position: absolute
+  left: 120px
+  @media (max-width: $bp-max-lg)
+    left: 50px
+  @media (max-width: $bp-max-md)
+    position: relative
+    left: 0
+  
+.hg-01
+  height: 104px
+  @media (max-width: $bp-max-xl)
+    height: 128px
+  @media (max-width: $bp-max-md)
+    height: initial
+
+  
+.lista-ul--color li, .ol.lista-ol--cuadro li, .lista-ol--cuadro li, .lista-ul--separador li
+  display: flex
+
+.bloque-texto-g.color-primario.w-40, .bloque-texto-g.color-acento-contenido.w-40
+  .bloque-texto-g__img
+    width: 35%
+    @media (max-width: $bp-max-md)
+      width: 100%
+  .bloque-texto-g__texto
+    width: 75%
+    @media (max-width: $bp-max-md)
+      width: 100%
+  
+.arrow-left
+  float: left
+  position: relative
+  &::after
+    position: absolute
+    content: ''
+    left: -10%
+    top: 40%
+    border-right: 30px solid #12263F
+    border-top: 30px solid transparent
+    border-left: 30px solid transparent
+    border-bottom: 30px solid transparent
+    @media (max-width: $bp-max-md)
+      left: 45%
+      top: -25%
+      border-right: 30px solid transparent
+      border-bottom: 30px solid #12263F
+    @media (max-width: $bp-max-sm)
+      top: -20%
+    @media (max-width: $bp-max-xs)
+      top: -14%
+    
+.tarjetas-up
+  overflow: hidden
+  border-radius: 5px
+  position: relative
+  &_card
+    transition: bottom .3s ease-in-out
+    position: absolute
+    border-radius: 5px
+    width: 100%
+    height: 100%
+    left: 0
+    bottom: -82%
+    @media (max-width: $bp-max-sm)
+      bottom: -78%
+    @media (max-width: $bp-max-xs)
+      bottom: -85%
+    i:last-child
+      display: none
+  &:hover
+    .tarjetas-up_card
+      bottom: -35%
+      @media (max-width: $bp-max-xl)
+        bottom: -25%
+      @media (max-width: $bp-max-lg)
+        bottom: 0%
+      @media (max-width: $bp-max-md)
+        bottom: -30%
+      @media (max-width: $bp-max-sm)
+        bottom: 0
+    i:first-child
+      display: none
+    i:last-child
+      display: block
+  
+.zindex-1
+  z-index: 1
+
+.zindex-2
+  z-index: 2
+    

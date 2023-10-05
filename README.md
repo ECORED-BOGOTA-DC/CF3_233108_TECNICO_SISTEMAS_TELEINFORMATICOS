@@ -1,8 +1,8 @@
-# **sena-base-2021 v6.2.1**
+# **Gestión de equipos informáticos**
 
 ## **Enlace GitHubPages**
 
-[https://ecored-sena.github.io/ECORED_TEMPLATE_REPO/](https://ecored-sena.github.io/ECORED_TEMPLATE_REPO/)
+[https://ecored-bogota-dc.github.io/CF3_233108_TECNICO_SISTEMAS_TELEINFORMATICOS/#/](https://ecored-bogota-dc.github.io/CF3_233108_TECNICO_SISTEMAS_TELEINFORMATICOS/#/)
 
 #
 
