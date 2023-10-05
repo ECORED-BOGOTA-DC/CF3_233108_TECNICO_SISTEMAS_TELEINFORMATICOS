@@ -825,19 +825,19 @@
           .tarjeta.BGR09.h-100.p-4
             .row.justify-content-center.mb-4
               .col-8
-                img(src='@/assets/curso/tema3/img51.png' alt='Imagen decorativa')
+                img(src='@/assets/curso/tema3/img71.png' alt='Imagen decorativa')
             p.mb-0 Humedezca un paño con agua o alcohol isopropílico y limpie la carcasa y cada uno de los botones o perillas de la impresora.
         .col-xl-3.col-lg-4.col-8.mb-lg-0.mb-4(data-aos="flip-up")
           .tarjeta.BGR09.h-100.p-4
             .row.justify-content-center.mb-4
               .col-8
-                img(src='@/assets/curso/tema3/img52.png' alt='Imagen decorativa')
+                img(src='@/assets/curso/tema3/img72.png' alt='Imagen decorativa')
             p.mb-0 Como se mencionó anteriormente, nunca rocíe ningún líquido directamente sobre la impresora.
         .col-xl-3.col-lg-4.col-8.mb-lg-0.mb-4(data-aos="fade-left")
           .tarjeta.BGR09.h-100.p-4
             .row.justify-content-center.mb-4
               .col-8
-                img(src='@/assets/curso/tema3/img53.png' alt='Imagen decorativa')
+                img(src='@/assets/curso/tema3/img73.png' alt='Imagen decorativa')
             p.mb-0 Algunas impresoras requieren que se limpie el interior para ayudar a que la impresora funcione sin problemas.
 
     .row.mb-5
