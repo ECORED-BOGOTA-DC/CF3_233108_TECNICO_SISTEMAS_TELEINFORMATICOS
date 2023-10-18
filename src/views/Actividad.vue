@@ -9,13 +9,13 @@
           figure
             img(src="@/assets/template/falso-verdadero.svg", alt="Imagen decorativa")
       .col-12.col-md-8.col-lg-9(data-aos="fade-left")
-        .titulo-segundo
+        .titulo-segundo.color-acento-botones
           h2 Gestión de equipos de cómputo
-        p.mb-4 Apropiar los conceptos más importantes asociados a la gestión de equipos de cómputo con el fin de aplicarlos en el mantenimiento y limpieza de los mismos.
+        p.mb-4 Apropiarse de los conceptos más importantes asociados a la gestión de equipos de cómputo para aplicarlos en el mantenimiento y limpieza de los mismos.
         .tarjeta.actividad.p-3
           .row.justify-content-around.align-items-center            
             .col-sm.mb-3.mb-sm-0
-              p.fw-bold.mb-0 Selección múltiple única respuesta
+              p.fw-bold.mb-0 Cuestionario
             .col-auto
               a.boton.boton--b(:href="obtenerLink('/actividades/actividad.html')" target="_blank")
                 span Realizar

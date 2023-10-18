@@ -179,7 +179,7 @@
         .BGS01.px-5.py-2
           .h3.mb-0 Cómo eliminar el #[em malware]
     
-    p.mb-5(data-aos="fade-right") El software malicioso no solo puede afectar a la computadora o al dispositivo infectado, es una amenaza para todos los equipos. A continuación, una explicación al respecto:
+    p.mb-5(data-aos="fade-right") El <i>software</i> malicioso no solo puede afectar a la computadora o al dispositivo infectado, es una amenaza para todos los equipos. A continuación, una explicación al respecto:
     
     .BGM03.px-md-5.px-4.py-4.mb-5
       figure(data-aos="zoom-in")
@@ -245,7 +245,7 @@
         .BGS01.px-5.py-2
           .h3.mb-0 Mantenimiento preventivo
     
-    p.mb-5(data-aos="fade-right") El manten imiento preventivo se define como el mantenimiento proactivo de los equipos antes de que ocurra una falla.
+    p.mb-5(data-aos="fade-right") El mantenimiento preventivo se define como el mantenimiento proactivo de los equipos antes de que ocurra una falla.
     
     .row.justify-content-center.align-items-center.mb-4
       .col-lg-7.order-lg-1.order-2
@@ -455,7 +455,7 @@
         :style="{'background-image': `url(${require('@/assets/curso/tema1/img23.jpg')})`}" data-aos="fade-right"
       )
       .bloque-texto-g__texto.p-4(data-aos="fade-left")
-        p.mb-0 Tenga cuidado con los signos de una PC plagada de #[em malware]: un rendimiento más lento de lo habitual, una repentina avalancha de ventanas emergentes y otros problemas anómalos. Si el comportamiento fuera de lo común a veces es el resultado de conflictos de #[em hardware], pero su primera acción debe ser descartar la posibilidad de infección por un virus, #[em spyware] u otra entidad nefasta, incluso si tiene un programa antivirus instalado.<br><br>Siga esta guía  paso a paso para obtener instrucciones sobre cómo deshacerse del #[em malware]:
+        p.mb-0 Tenga cuidado con los signos de una PC plagada de #[em malware]: un rendimiento más lento de lo habitual, una repentina avalancha de ventanas emergentes y otros problemas anómalos. Si el comportamiento fuera de lo común a veces es el resultado de conflictos de #[em hardware], pero su primera acción debe ser descartar la posibilidad de infección por un virus, #[em spyware] u otra entidad nefasta, incluso si tiene un programa antivirus instalado.<br><br>Siga esta guía  paso a paso para obtener instrucciones sobre cómo deshacerse del <i>malware</i>:
 
     .row.justify-content-center.mb-4
       .col-lg-6.tarjeta.BG08.p-4(data-aos="flip-up")
@@ -661,7 +661,7 @@
             i.fas.fa-check-circle.t-ac
             | herramientas de limpieza de computadoras.
       .col-lg-6.col-10.order-lg-2.order-1.px-5.mx-auto.mb-lg-0.mb-4(data-aos="fade-left")
-        img(src='@/assets/curso/tema1/img38.png' alt="Imagen decorativa")
+        img(src='@/assets/curso/tema1/img38.png' alt="Muestra foto de técnico realizando mantenimiento de hardware")
     
     .row.mb-5
       .col-auto(data-aos="fade-right")
@@ -954,7 +954,7 @@
             p.text-center.mb-0(style="font-weight: 900; font-size: 30px !important") <i class="fas fa-check"></i>
           .col
             .p-4
-              .h5.mb-0 No sobrecargue No permita que el UPS se apague solo porque puede dañar la batería.
+              .h5.mb-0 No sobrecargue no permita que el UPS se apague solo porque puede dañar la batería.
       .col-lg-5.col-8.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-left")
         img(src='@/assets/curso/tema1/img66.png' alt="Imagen decorativa")
 

@@ -623,7 +623,7 @@
                   p.mb-0 #[b El teclado.] Según un estudio, los teclados sucios contienen bacterias debido al polvo, la suciedad y los restos de comida. Para limpiarlo, voltee el teclado, golpéelo suavemente, use un pincel e hisopos de algodón con aire comprimido. Limpie la superficie con alcohol semanalmente.
                 li(style="margin-bottom: 2px")
                   i.fas.fa-check-circle.t-ac
-                  p.mb-0 #[b El ratón.] Comience desconectando el mouse de la computadora y retirando la batería, si la hay. Luego, limpie el exterior del mouse con un paño suave y elimine la suciedad y la suciedad de las grietas con un palillo. Finalmente, limpie el sensor y otros componentes del mouse con un bastoncillo de algodón ligeramente humedecido con alcohol isopropílico. No utilice una fuerza excesiva en el hisopo, ya que esto puede dañar el sensor del mouse.
+                  p.mb-0 #[b El ratón.] Comience desconectando el <i>mouse</i> de la computadora y retirando la batería, si la hay. Luego, limpie el exterior del <i>mouse</i> con un paño suave y elimine la suciedad y la suciedad de las grietas con un palillo. Finalmente, limpie el sensor y otros componentes del <i>mouse</i> con un bastoncillo de algodón ligeramente humedecido con alcohol isopropílico. No utilice una fuerza excesiva en el hisopo, ya que esto puede dañar el sensor del <i>mouse</i>.
             .col-12
               .tarjeta.BG05.p-4
                 .row.justify-content-center

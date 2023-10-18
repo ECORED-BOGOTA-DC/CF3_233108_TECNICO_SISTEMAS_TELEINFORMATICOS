@@ -211,7 +211,7 @@
             .row.justify-content-center.align-items-center
               .col-lg-9.order-lg-1.order-2(data-aos="fade-right")
                 .h4 Paño
-                p.mb-0 Un paño de algodón es la mejor herramienta para frotar los componentes de la computadora. Las toallas de papel se pueden usar con la mayoría de los accesorios, pero siempre recomendamos usar un paño siempre que sea posible. Sin embargo, solo use un paño cuando limpie componentes como la carcasa, la unidad, el mouse y el teclado. No use un paño para limpiar ningún circuito, como la RAM o la placa base.
+                p.mb-0 Un paño de algodón es la mejor herramienta para frotar los componentes de la computadora. Las toallas de papel se pueden usar con la mayoría de los accesorios, pero siempre recomendamos usar un paño siempre que sea posible. Sin embargo, solo use un paño cuando limpie componentes como la carcasa, la unidad, el <i>mouse</i> y el teclado. No use un paño para limpiar ningún circuito, como la RAM o la placa base.
               .col-lg-3.col-6.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-left")
                 img(src='@/assets/curso/tema3/img18.svg' alt="Imagen decorativa")
             .row.justify-content-center.align-items-center
@@ -231,7 +231,7 @@
                 img(src='@/assets/curso/tema3/img21.svg' alt="Imagen decorativa")
               .col-lg-9.text-start(data-aos="fade-left")
                 .h4 Bastoncillos de algodón
-                p.mb-0 Los bastoncillos de algodón humedecidos con alcohol isopropílico o agua son herramientas excelentes para limpiar áreas de difícil acceso en el teclado, el mouse y otros lugares.
+                p.mb-0 Los bastoncillos de algodón humedecidos con alcohol isopropílico o agua son herramientas excelentes para limpiar áreas de difícil acceso en el teclado, el <i>mouse</i> y otros lugares.
             .row.justify-content-center.align-items-center
               .col-lg-9.order-lg-1.order-2(data-aos="fade-right")
                 .h4 Hisopos de espuma
@@ -672,7 +672,7 @@
         .BGS01.px-5.py-2
           .h3.mb-0 Limpieza de ratones
     
-    p.mb-5(data-aos="fade-right") Un mouse óptico o láser sucio puede hacer que el cursor del mouse sea difícil de mover o que se mueva de forma errática.
+    p.mb-5(data-aos="fade-right") Un <i>mouse</i> óptico o láser sucio puede hacer que el cursor del <i>mouse</i> sea difícil de mover o que se mueva de forma errática.
 
     .row.align-items-center.mb-5
       .col-xl-1.d-xl-flex.d-none
@@ -682,14 +682,14 @@
             img(src='@/assets/curso/temas/img02.svg' alt='Imagen decorativa')
           .BGR06.w-100.p-4.row.justify-content-center
             .col-lg-9.col-10
-              .h4.mb-0 Use una lata de aire comprimido diseñada para usar con equipos electrónicos, rociándola alrededor del sensor óptico en la parte inferior del mouse.
+              .h4.mb-0 Use una lata de aire comprimido diseñada para usar con equipos electrónicos, rociándola alrededor del sensor óptico en la parte inferior del <i>mouse</i>.
             .col-lg-1.d-lg-flex.d-none
         .tarjeta-avatar-b(data-aos="fade-right")
           .tarjeta-avatar-b__img(style="left: 5%")
             img(src='@/assets/curso/temas/img06.svg' alt='Imagen decorativa')
           .BG07.w-100.p-4.row.justify-content-center
             .col-lg-9.col-10
-              .h4.mb-0 Soplar aire en la parte inferior del mouse elimina la suciedad, el polvo, el cabello u otras obstrucciones que bloquean el sensor óptico.
+              .h4.mb-0 Soplar aire en la parte inferior del <i>mouse</i> elimina la suciedad, el polvo, el cabello u otras obstrucciones que bloquean el sensor óptico.
             .col-lg-1.d-lg-flex.d-none
         .tarjeta-avatar-b(data-aos="fade-right")
           .tarjeta-avatar-b__img(style="left: 5%")
@@ -710,7 +710,7 @@
           .col-lg-9
             .h5.text-white.mb-0 Ratón óptico-mecánico (ratón de bola): Un ratón óptico-mecánico sucio (ratón con una bola) puede dificultar el movimiento del ratón y provocar un movimiento extraño del ratón.
     
-    p.mb-5(data-aos="fade-right") Girar la parte inferior de la cubierta del mouse.
+    p.mb-5(data-aos="fade-right") Girar la parte inferior de la cubierta del <i>mouse</i>.
 
     .row.justify-content-start.mb-5
       .col-auto.BGS05.px-4.py-2(data-aos="fade-left")
@@ -723,25 +723,25 @@
         ul.lista-ul--color.lista-ul--separador
           li(style="margin-bottom: 2px" data-aos="fade-left")
             i.fas.fa-check-circle.t-ac
-            | Para limpiar los rodillos de un mouse óptico-mecánico, primero debe quitar la cubierta inferior. 
+            p.mb-0 Para limpiar los rodillos de un <i>mouse</i> óptico-mecánico, primero debe quitar la cubierta inferior. 
           li(style="margin-bottom: 2px" data-aos="fade-left")
             i.fas.fa-check-circle.t-ac
-            | Para hacer esto, examine la parte inferior del mouse para ver en qué dirección girar la cubierta. 
+            p.mb-0 Para hacer esto, examine la parte inferior del <i>mouse</i> para ver en qué dirección girar la cubierta. 
           li(style="margin-bottom: 2px" data-aos="fade-left")
             i.fas.fa-check-circle.t-ac
-            | Como puede ver en la siguiente ilustración, la cubierta del mouse debe moverse en sentido contrario a las agujas del reloj. 
+            p.mb-0 Como puede ver en la siguiente ilustración, la cubierta del <i>mouse</i> debe moverse en sentido contrario a las agujas del reloj. 
           li(style="margin-bottom: 2px" data-aos="fade-left")
             i.fas.fa-check-circle.t-ac
-            | Coloque dos dedos en la cubierta del mouse, presione hacia abajo y gire en la dirección de las flechas.
+            p.mb-0 Coloque dos dedos en la cubierta del <i>mouse</i>, presione hacia abajo y gire en la dirección de las flechas.
           li(style="margin-bottom: 2px" data-aos="fade-left")
             i.fas.fa-check-circle.t-ac
-            | Una vez que la cubierta haya girado aproximadamente una pulgada, gire el mouse a su posición normal, cubriendo la parte inferior del mouse con una mano. 
+            p.mb-0 Una vez que la cubierta haya girado aproximadamente una pulgada, gire el <i>mouse</i> a su posición normal, cubriendo la parte inferior del <i>mouse</i> con una mano. 
           li(style="margin-bottom: 2px" data-aos="fade-left")
             i.fas.fa-check-circle.t-ac
-            | La parte inferior debería caerse, incluida la bola del ratón. 
+            p.mb-0 La parte inferior debería caerse, incluida la bola del ratón. 
           li(style="margin-bottom: 2px" data-aos="fade-left")
             i.fas.fa-check-circle.t-ac
-            | Si la cubierta no se cae, trate de sacudir el mouse suavemente.
+            p.mb-0 Si la cubierta no se cae, trate de sacudir el <i>mouse</i> suavemente.
 
     p.mb-5(data-aos="fade-right") Ratón de ordenador sin bola.
 
@@ -756,7 +756,7 @@
             .tarjeta-avatar-b__img(style="align-items: start")
               img(src='@/assets/curso/tema3/img42.svg' alt='Imagen decorativa')
             .tarjeta.color-acento-botones.p-4
-              p.mb-0 Una vez que se quitan la cubierta inferior y la bola, se deben ver tres rodillos dentro del mouse. 
+              p.mb-0 Una vez que se quitan la cubierta inferior y la bola, se deben ver tres rodillos dentro del <i>mouse</i>. 
           .tarjeta-avatar-b.mb-2
             .tarjeta-avatar-b__img(style="align-items: start")
               img(src='@/assets/curso/tema3/img43.svg' alt='Imagen decorativa')
@@ -789,17 +789,17 @@
             .tarjeta-avatar-b__img(style="align-items: start")
               img(src='@/assets/curso/tema3/img46.svg' alt='Imagen decorativa')
             .tarjeta.color-acento-botones.p-4
-              p.mb-0 Una vez que haya eliminado la mayor cantidad de suciedad y cabello posible, vuelva a colocar la bola en el mouse y vuelva a colocar la cubierta.
+              p.mb-0 Una vez que haya eliminado la mayor cantidad de suciedad y cabello posible, vuelva a colocar la bola en el <i>mouse</i> y vuelva a colocar la cubierta.
           .tarjeta-avatar-b.mb-2
             .tarjeta-avatar-b__img(style="align-items: start")
               img(src='@/assets/curso/tema3/img47.svg' alt='Imagen decorativa')
             .tarjeta.color-acento-contenido.p-4
-              p.mb-0 Si el mouse todavía tiene los mismos problemas, repita el proceso anterior. 
+              p.mb-0 Si el <i>mouse</i> todavía tiene los mismos problemas, repita el proceso anterior. 
           .tarjeta-avatar-b.mb-2
             .tarjeta-avatar-b__img(style="align-items: start")
               img(src='@/assets/curso/tema3/img48.svg' alt='Imagen decorativa')
             .tarjeta.color-acento-botones.p-4
-              p.mb-0 Si, después de varios intentos, el mouse sigue teniendo los mismos problemas, su mouse tiene otros problemas de #[em hardware] y debe reemplazarse.
+              p.mb-0 Si, después de varios intentos, el <i>mouse</i> sigue teniendo los mismos problemas, su <i>mouse</i> tiene otros problemas de #[em hardware] y debe reemplazarse.
 
     .row.mb-5
       .col-auto(data-aos="fade-right")
@@ -1344,7 +1344,8 @@
       .col-auto(data-aos="fade-right")
         .BGS01.px-5.py-2
           .h3.mb-0 Hacer un limpiador
-    
+
+    p.mb-5 Al hacer sus propios productos de limpieza para los equipos, puede ahorrar dinero y controlar la cantidad de productos químicos peligrosos.     
     
     .BGIMG03.px-md-5.px-4.mb-5
       .row.justify-content-center.align-items-center
