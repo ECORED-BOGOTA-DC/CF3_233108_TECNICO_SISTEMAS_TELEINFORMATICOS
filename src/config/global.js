@@ -322,7 +322,7 @@ export default {
           nombre: 'Diego E. Acevedo Guevara',
           cargo: 'Diseñador Instruccional ',
           centro:
-            'Regional Santander - Centro Industrial del Diseño y la Manufactura',
+            'Regional Norte de Santander - Centro de la Industria, la Empresa y los Servicios',
         },
         {
           nombre: 'Andrés Felipe Velandia Espitia',
@@ -330,15 +330,15 @@ export default {
           centro: 'Regional Distrito Capital - Centro de Diseño y Metrología',
         },
         {
+          nombre: 'José Gabriel Ortiz Abella',
+          cargo: 'Corrector de estilo',
+          centro: 'Regional Distrito Capital - Centro de Diseño y Metrología',
+        },
+        {
           nombre: 'Rafael Neftalí Lizcano Reyes',
           cargo: 'Responsable Equipo Desarrollo Curricular',
           centro:
             'Regional Santander - Centro Industrial del Diseño y la Manufactura',
-        },
-        {
-          nombre: 'José Gabriel Ortiz Abella',
-          cargo: 'Corrector de estilo',
-          centro: 'Regional Distrito Capital - Centro de Diseño y Metrología',
         },
         {
           nombre: 'Gloria Lida Alzate Suarez',

@@ -1343,9 +1343,7 @@
     .row.mb-5
       .col-auto(data-aos="fade-right")
         .BGS01.px-5.py-2
-          .h3.mb-0 Hacer un limpiador
-
-    p.mb-5 Al hacer sus propios productos de limpieza para los equipos, puede ahorrar dinero y controlar la cantidad de productos químicos peligrosos.     
+          .h3.mb-0 Hacer un limpiador   
     
     .BGIMG03.px-md-5.px-4.mb-5
       .row.justify-content-center.align-items-center
