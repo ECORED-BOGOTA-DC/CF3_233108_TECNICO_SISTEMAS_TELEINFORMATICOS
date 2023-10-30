@@ -182,9 +182,58 @@
     p.mb-5(data-aos="fade-right") El <i>software</i> malicioso no solo puede afectar a la computadora o al dispositivo infectado, es una amenaza para todos los equipos. A continuación, una explicación al respecto:
     
     .BGM03.px-md-5.px-4.py-4.mb-5
-      figure(data-aos="zoom-in")
-        img(src='@/assets/curso/tema1/img17.svg' alt="Imagen decorativa")
-    
+      .row.justify-content-center.align-items-center
+        .col-lg-5
+          ImagenInfografica.color-secundario
+            template(v-slot:imagen)
+              figure
+                img(src='@/assets/curso/tema1/img17.svg', alt='Imagen decorativa')
+
+            .tarjeta.tarjeta--blanca.p-3(x="45%" y="1%" numero="+")
+              p.mb-0 Siempre que haya una actualización de <i>software</i> antivirus disponible, debe ejecutarla ese día para eliminar el malware.
+
+              .row
+                .col-6
+                .col-6
+                  figure
+                    img(src='@/assets/curso/tema1/img17-1.svg', alt='Imágen decorativa')
+               
+            .tarjeta.tarjeta--blanca.p-3(x="8%" y="14%" numero="+")
+              p.text-end.mb-0 Un ataque cibernético en el que roba sus credenciales de inicio de sesión. Actualizar su contraseña cuatro veces al año.
+
+              .row
+                .col-8.col-lg-6
+                  figure
+                    img(src='@/assets/curso/tema1/img17-2.svg', alt='Imágen decorativa')
+               
+            .tarjeta.tarjeta--blanca.p-3(x="2%" y="81%" numero="+")
+              p.text-end.mb-0 El <i>firmware</i> es una pequeña pieza de <i>software</i> en su computadora que mantiene el <i>hardware</i> funcionando correctamente.
+
+              .row
+                .col-8.col-lg-6
+                  figure
+                    img(src='@/assets/curso/tema1/img17-3.svg', alt='Imágen decorativa')
+
+            .tarjeta.tarjeta--blanca.p-3(x="97%" y="22%" numero="+")
+              p.mb-0 Para mantener su <i>software</i> antivirus funcionando correctamente, querrá realizar actualizaciones de firmas además de actualizaciones de <i>software</i>. Esto asegura que su dispositivo esté protegido contra nuevos virus.
+
+              .row
+                .col-6
+                .col-6
+                  figure
+                    img(src='@/assets/curso/tema1/img17-4.svg', alt='Imágen decorativa')
+
+            .tarjeta.tarjeta--blanca.p-3(x="98%" y="81%" numero="+")
+              p.mb-0 Estos controles requerirán una contraseña de un administrador para descargar ciertos archivos y <i>software</i> a su dispositivo.
+
+              .row
+                .col-6
+                .col-6
+                  figure
+                    img(src='@/assets/curso/tema1/img17-5.svg', alt='Imágen decorativa')
+
+
+   
     .row.mb-5
       .col-auto(data-aos="fade-right")
         .BGS01.px-5.py-2
