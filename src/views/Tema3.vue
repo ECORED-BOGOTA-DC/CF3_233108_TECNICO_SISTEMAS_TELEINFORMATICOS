@@ -874,7 +874,7 @@
 
     separador
     #t_3_2.titulo-segundo.color-acento-botones(data-aos="fade-right")
-      h2 3.2 Características
+      h2 3.2 Productos
     
     figure(data-aos="fade-left")
       img(src='@/assets/curso/tema3/img54.png' alt="Imagen decorativa")

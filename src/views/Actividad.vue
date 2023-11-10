@@ -7,7 +7,7 @@
       .col-6.col-md-4.col-lg-3.mb-4.mb-md-0(data-aos="fade-right")
         .tarjeta.h-100.d-flex.align-items-center.p-4
           figure
-            img(src="@/assets/template/falso-verdadero.svg", alt="Imagen decorativa")
+            img(src="@/assets/template/opcion-multiple.svg", alt="Imagen decorativa")
       .col-12.col-md-8.col-lg-9(data-aos="fade-left")
         .titulo-segundo.color-acento-botones
           h2 Gestión de equipos de cómputo

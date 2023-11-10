@@ -157,7 +157,7 @@
             img(src='@/assets/curso/tema1/img13.png' alt="Imagen decorativa")
         .row.justify-content-center
           .col-lg-8.order-lg-1.order-2
-            .h4.mt-4 Configure el startup
+            .h4.mt-4 Configure el <i>startup</i>
             p.mb-0 Debe verificar periódicamente las aplicaciones que se ejecutan automáticamente al inicio. Estas aplicaciones pueden ralentizar su computadora. Desde la pestaña Configuración, debería poder navegar hasta Inicio para controlar qué aplicaciones se ejecutan.
           .col-lg-4.col-8.order-lg-2.order-1.mb-lg-0.mb-4
             img(src='@/assets/curso/tema1/img14.png' alt="Imagen decorativa")
@@ -190,7 +190,7 @@
                 img(src='@/assets/curso/tema1/img17.svg', alt='Imagen decorativa')
 
             .tarjeta.tarjeta--blanca.p-3(x="45%" y="1%" numero="+")
-              p.mb-0 Siempre que haya una actualización de <i>software</i> antivirus disponible, debe ejecutarla ese día para eliminar el malware.
+              p.mb-0 Siempre que haya una actualización de <i>software</i> antivirus disponible, debe ejecutarla ese día para eliminar el <i>malware</i>.
 
               .row
                 .col-6
@@ -279,7 +279,7 @@
           .row.justify-content-center(titulo="Mantenga alejados los alimentos y las bebidas")
             .col-lg-11
               p.mb-0 Solo se necesita una lata de refresco para destruir un dispositivo. Por muy tentador que sea disfrutar de un vaso de café mientras revisa sus correos electrónicos matutinos, siempre evite comer o beber cerca de su computadora para reducir el riesgo de derrames.
-          .row.justify-content-center(titulo="Evite el spam mientras navegas")
+          .row.justify-content-center(titulo="Evite el <i>spam</i> mientras navegas")
             .col-lg-11
               p.mb-0 Si aparece un correo electrónico extraño en su bandeja de entrada o una ventana emergente inesperada mientras navega, resistir el impulso de abrirlo. Las estafas de #[em malware] pueden dañar en gran medida su dispositivo y poner en riesgo sus archivos y su privacidad. Al igual que un automóvil, su computadora necesita mantenimiento regular para funcionar correctamente. Hacer un mantenimiento regular de la computadora puede prolongar en gran medida la vida útil del dispositivo y puede mantenerlo más seguro mientras navega en línea. Al completar solo unos pocos pasos simples, obtendrá un sistema operativo más rápido y más saludable para trabajar.
 
@@ -287,7 +287,7 @@
     #t_1_2.titulo-segundo.color-acento-botones(data-aos="fade-right")
       h2 1.2 Tipos de mantenimiento
     
-    p.mb-5(data-aos="fade-right") El mantenimiento del sistema es un término general que abarca varias formas de mantenimiento de la computadora necesarias para mantener un sistema en funcionamiento. Los dos componentes principales del mantenimiento del sistema son el mantenimiento preventivo y correctivo. El mantenimiento preventivo implica tomar medidas para ayudar a mantener el funcionamiento del sistema, mientras que el mantenimiento correctivo implica el reemplazo o la reparación de un sistema o sus componentes después de que ya hayan fallado. A a continuación se describen:
+    p.mb-5(data-aos="fade-right") El mantenimiento del sistema es un término general que abarca varias formas de mantenimiento de la computadora necesarias para mantener un sistema en funcionamiento. Los dos componentes principales del mantenimiento del sistema son el mantenimiento preventivo y correctivo. El mantenimiento preventivo implica tomar medidas para ayudar a mantener el funcionamiento del sistema, mientras que el mantenimiento correctivo implica el reemplazo o la reparación de un sistema o sus componentes después de que ya hayan fallado. A continuación se describen:
     
     .row.mb-5
       .col-auto(data-aos="fade-right")
@@ -708,7 +708,7 @@
             | Aspirador portátil.
           li(style="margin-bottom: 2px" data-aos="fade-right")
             i.fas.fa-check-circle.t-ac
-            | herramientas de limpieza de computadoras.
+            | Herramientas de limpieza de computadoras.
       .col-lg-6.col-10.order-lg-2.order-1.px-5.mx-auto.mb-lg-0.mb-4(data-aos="fade-left")
         img(src='@/assets/curso/tema1/img38.png' alt="Muestra foto de técnico realizando mantenimiento de hardware")
     
@@ -1253,7 +1253,7 @@
     .BGIMG08.px-md-5.px-4.py-4.mb-5(data-aos="zoom-in")
       .row.justify-content-center
         .col-lg-8
-          img(src='@/assets/curso/tema1/img75.svg' alt="Imagen decorativa")
+          img(src='@/assets/curso/tema1/img75.svg' alt="La limpieza del disco debe realizarse semanalmente para deshacerse de la “basura”. - Ejecute la desfragmentación que se encuentra en las herramientas de términos para extraer esos fragmentos en una ubicación. - Siempre actualiza tu sistema. - Copia de seguridad con disco duro externo y “software” de copia de seguridad. - Debe observarse el mantenimiento físico, es decir, la limpieza física regular de los componentes de “hardware”.")
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-8

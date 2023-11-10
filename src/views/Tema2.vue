@@ -688,14 +688,8 @@ export default {
       {
         titulo: '<span style="color: #5573C6">Los manuales técnicos</span>',
         texto:
-          'Son útiles para que los nuevos usuarios puedan instalar y ejecutar su producto, lo que reduce el tiempo que le lleva al usuario dominar su producto. Además, brindan advertencias sobre almacenamiento, temperatura y evitar el contacto con líquidos para seguridad.',
+          'son útiles para que los nuevos usuarios puedan instalar y ejecutar su producto, lo que reduce el tiempo que le lleva al usuario dominar su producto. Además, brindan advertencias sobre almacenamiento, temperatura y evitar el contacto con líquidos para seguridad. También, son recursos valiosos para operadores y nuevos usuarios, evitando responsabilidades legales y mejorando la fidelidad de clientes.',
         imagen: require('@/assets/curso/tema2/img21.jpg'),
-      },
-      {
-        titulo: '<span style="color: #5573C6">Los manuales técnicos</span>',
-        texto:
-          'Son recursos valiosos para operadores y nuevos usuarios, evitando responsabilidades legales y mejorando la fidelidad de clientes.',
-        imagen: require('@/assets/curso/tema2/img22.jpg'),
       },
       {
         titulo:

@@ -203,13 +203,6 @@ export default {
       link:
         'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000055141',
     },
-    {
-      tema: '3.	Elementos de limpieza',
-      referencia:
-        'Support.hp. (s.f.). <em>Equipos HP - Cómo limpiar su equipo</em>. Support.hp.',
-      tipo: 'Página Web',
-      link: 'https://support.hp.com/co-es/document/c00374675',
-    },
   ],
   glosario: [
     {
@@ -282,8 +275,7 @@ export default {
     {
       referencia:
         'Google.com. (s. f.). <em>Mantenimiento Preventivo 2</em>. Google.',
-      link:
-        'https://sites.google.com/site/mantenimientoyfuncionamientopc/home/mantenimiento-preventivo-3',
+      link: '',
     },
     {
       referencia:
